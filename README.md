@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ROKI
 - 👀 I’m interested in making servers
-- 🌱 I’m currently learning python and html
+- 🌱 I’m currently learning Python and HTML
 - 📫 How to reach me Brawl Pass
 
 <!---
