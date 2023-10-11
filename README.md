@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ROKI
-- 👀 I’m interested in making servers
-- 🌱 I’m currently learning Python and HTML
-- 📫 How to make Brawl Pass
+- 🌱 I’m currently learning C++, C#
+- 🧠 I'm know Python
 
 <!---
 StarrDeveloper/StarrDeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
